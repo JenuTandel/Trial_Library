@@ -21,5 +21,4 @@ export class Explanation {
 export class ImageContainer {
   imagePath!: string;
   imageId!: string;
-  explanations!: Explanation[];
 }

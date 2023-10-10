@@ -20,6 +20,5 @@ export declare class Explanation {
 export declare class ImageContainer {
     imagePath: string;
     imageId: string;
-    explanations: Explanation[];
 }
 //# sourceMappingURL=product_preview.model.d.ts.map
